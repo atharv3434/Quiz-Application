@@ -4,7 +4,7 @@
 📌 Description
 The Quiz Application is a Java-based console program that allows users to take a quiz and get their score at the end. The system presents multiple-choice questions, accepts user input, evaluates answers, and provides a final score.
 
-This project follows Object-Oriented Programming (OOP) principles and uses ArrayList to store quiz questions dynamically.
+This project follows Object-Oriented Programming (OOP) principles and uses ArrayList to store quiz questions dynamically
 
 ✅ Features
 ✔ Multiple-Choice Questions (MCQs) – Users choose the correct answer from four options.
